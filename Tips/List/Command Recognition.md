@@ -31,10 +31,10 @@
    add the following lines to the `.cwl` file.
 
    ```txt
-   \citepub{%<bibid%>}#c
-   \nocitepub{%<bibid%>}#c
-   \bibliographypub{%<file%>}#b
-   \bibliographystylepub{%<style%>}
+   \citepub{\%<bibid\%>}#c
+   \nocitepub{\%<bibid\%>}#c
+   \bibliographypub{\%<file\%>}#b
+   \bibliographystylepub{\%<style\%>}
    ```
   
 
