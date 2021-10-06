@@ -41,8 +41,6 @@ This is a collection of useful **tips** and **features** for **[TeXStudio]**.
 
 ---
 
-<div align = 'center'>
-
 |                                 **General**                                  |
 | :--------------------------------------------------------------------------: |
 | [Custom Packages]                                                            |
@@ -68,5 +66,3 @@ This is a collection of useful **tips** and **features** for **[TeXStudio]**.
 |                              **Compilation**                                 |
 | [Platform Independent Compilation]                                           |
 | [Windows Compilation]                                                        |
-
-</div>
