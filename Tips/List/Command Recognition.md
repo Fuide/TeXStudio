@@ -30,7 +30,7 @@
    `\newcites{<name>}{Bibliography Title}`,<br>
    add the following lines to the `.cwl` file.
 
-  ```tex
+  ```
   \citepub{%<bibid%>}#c
   \nocitepub{%<bibid%>}#c
   \bibliographypub{%<file%>}#b
