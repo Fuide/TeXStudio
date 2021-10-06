@@ -17,7 +17,7 @@
 
 <!--                          < Tip / Trick Links >                          -->
 
-[config folder]: ../FAQ/Config%20Folder
+[config folder]: ../FAQ/List/Config%20Folder
 
 
 <!--                           < Tip / Trick >                               -->
