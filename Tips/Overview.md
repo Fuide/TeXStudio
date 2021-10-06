@@ -43,26 +43,26 @@ This is a collection of useful **tips** and **features** for **[TeXStudio]**.
 
 |                                 **General**                                  |
 |                                     ---                                      |
-[Custom Packages]
-[PDF Presentation]
-| **Editing** |
-[Special Comments]
-[Insert Graphics]
-[JabRef Citations]
-[Column Editing / Multiple Cursors]
+| [Custom Packages]                                                            |
+| [PDF Presentation]                                                           |
+| **Editing**                                                                  |
+| [Special Comments]                                                           |
+| [Insert Graphics]                                                            |
+| [JabRef Citations]                                                           |
+| [Column Editing / Multiple Cursors]                                          |
 |                                 **Editor**                                   |
-[Dark Mode]
-[Fullscreen]
-[Toolbar Submenus]
-[Tooltips & Context Menus]
-[Multi-language Spellchecking]
-[Recognition Of Editor Commands]
+| [Dark Mode]                                                                  |
+| [Fullscreen]                                                                 |
+| [Toolbar Submenus]                                                           |
+| [Tooltips & Context Menus]                                                   |
+| [Multi-language Spellchecking]                                               |
+| [Recognition Of Editor Commands]                                             |
 |                                **Settings**                                  |
-[Portable Path Settings]
-[Auxiliary Files In Separate Directories]
+| [Portable Path Settings]                                                     |
+| [Auxiliary Files In Separate Directories]                                    |
 |                                  **TXS**                                     |
-[Using TXS With Multibib]
-[User Citations / References With TXS]
+| [Using TXS With Multibib]                                                    |
+| [User Citations / References With TXS]                                       |
 |                              **Compilation**                                 |
-[Platform Independent Compilation]
-[Windows Compilation]
+| [Platform Independent Compilation]                                           |
+| [Windows Compilation]                                                        |
