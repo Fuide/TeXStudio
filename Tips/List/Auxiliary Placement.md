@@ -146,12 +146,22 @@ In the **preamble** of your `.tex` & `.cls` files, add:
 %
 % For more details see https://github.com/latex3/latex2e/issues/145
 
-\def\Gin@getbase#1{%
-  \edef\Gin@tempa{%
-    \def\noexpand\@tempa####1#1\space{%
-      \def\noexpand\Gin@base{####1}}}%
-  \@iffileonpath{\filename@area\filename@base#1}%
+\def\Gin@getbase#1{
+    \edef\Gin@tempa{
+        \def\noexpand\@tempa####1#1\space{
+            \def\noexpand\Gin@base{
+                ####1
+            }
+        }
+    }
+
+    \@iffileonpath{
+        \filename@area\filename@base#1
+    }
+
     {\Gin@tempa
      \expandafter\@tempa\@filef@und
-     \edef\Gin@ext{#1}}{}}%
+     \edef\Gin@ext{#1}
+    }{}
+}
 ```
