@@ -30,11 +30,12 @@
    `\newcites{<name>}{Bibliography Title}`,<br>
    add the following lines to the `.cwl` file.
 
-  
-       \citepub{%<bibid%>}#c
-       \nocitepub{%<bibid%>}#c
-       \bibliographypub{%<file%>}#b
-       \bibliographystylepub{%<style%>}
+   ```txt
+   \citepub{%<bibid%>}#c
+   \nocitepub{%<bibid%>}#c
+   \bibliographypub{%<file%>}#b
+   \bibliographystylepub{%<style%>}
+   ```
   
 
 3. Goto `config/completion/`
