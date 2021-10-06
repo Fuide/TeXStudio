@@ -18,6 +18,7 @@
 <!--                          < Tip / Trick Links >                          -->
 
 [config folder]: ../FAQ/List/Config%20Folder
+[following lines]: Command%20Recognition.tex
 
 
 <!--                           < Tip / Trick >                               -->
@@ -28,15 +29,7 @@
 
 2. For every bibliography created using<br>
    `\newcites{<name>}{Bibliography Title}`,<br>
-   add the following lines to the `.cwl` file.
-
-   ```txt
-   \citepub{\%<bibid\%>}#c
-   \nocitepub{\%<bibid\%>}#c
-   \bibliographypub{\%<file\%>}#b
-   \bibliographystylepub{\%<style\%>}
-   ```
-  
+   add the [following lines] to the `.cwl` file.
 
 3. Goto `config/completion/`
 
