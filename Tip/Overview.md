@@ -45,7 +45,7 @@ This is a collection of useful **tips** and **features** for **[TeXStudio]**.
 | :--------------------------------------------------------------------------: |
 | [Custom Packages]                                                            |
 | [PDF Presentation]                                                           |
-| **Editing**                                                                  |
+|                                 **Editing**                                  |
 | [Special Comments]                                                           |
 | [Insert Graphics]                                                            |
 | [JabRef Citations]                                                           |
