@@ -1,6 +1,6 @@
 <!----------------------------[ Navigation Links ]----------------------------->
 
-[‹‹ Overview]: ../../../README
+[‹‹ Overview]: ../../../
 
 [User Manual]: http://texstudio.sourceforge.net/manual/current/usermanual_en.html
 [Dictionaries]: ../../../Dictionary/Overview
