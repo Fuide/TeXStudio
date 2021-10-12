@@ -1,0 +1,16 @@
+{
+    "abbrev": "",
+    "description": [
+        "Uses EVAL to execute the current editor text as script."
+    ],
+    "formatVersion": 1,
+    "menu": "",
+    "name": "Evaluate",
+    "shortcut": "",
+    "tag": [
+        "%SCRIPT",
+        "",
+        "eval(editor.text());"
+    ],
+    "trigger": ""
+}
