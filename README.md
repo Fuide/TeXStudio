@@ -13,16 +13,16 @@
 <!-------------------------------[ User Links ]-------------------------------->
 
 [User Manual]: http://texstudio.sourceforge.net/manual/current/usermanual_en.html
-[Dictionaries]: Dictionary/Overview
-[Tips & Tricks]: Tip/Overview
-[Scripts]: Script/Overview
-[FAQ]: FAQ/Overview
+[Dictionaries]: Dictionary/
+[Tips & Tricks]: Tip/
+[Scripts]: Script/
+[FAQ]: FAQ/
 
 <!----------------------------[ Contributor Links ]---------------------------->
 
-[Translating]: Translate/Overview
-[Grammars]: Grammar/Overview
-[Building]: Build/Overview
+[Translating]: Translation/
+[Grammars]: Grammar/
+[Building]: Build/
 
 <!----------------------------------------------------------------------------->
 
