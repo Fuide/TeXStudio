@@ -1,24 +1,18 @@
 
-[OSX]: https://bintray.com/sunderme/texstudio/texstudio-osx#files
-[windows]: https://bintray.com/sunderme/texstudio/texstudio-win#files
-[development ppa]: https://launchpad.net/~sunderme/+archive/ubuntu/texstudio-daily
-[compile TXS]: https://github.com/texstudio-org/texstudio/wiki/Compiling
+<!--                            < Static Links >                             -->
 
-[custom .cwl file]: https://htmlpreview.github.io/?https://github.com/texstudio-org/texstudio/blob/master/utilities/manual/usermanual_en.html#CWLDESCRIPTION
-[.cwl files]: https://htmlpreview.github.io/?https://github.com/texstudio-org/texstudio/blob/master/utilities/manual/usermanual_en.html#CWLDESCRIPTION
-[customizing of the language definition]: https://htmlpreview.github.io/?https://github.com/texstudio-org/texstudio/blob/master/utilities/manual/usermanual_en.html#LANGUAGEDEF
-[cwl file]: https://htmlpreview.github.io/?https://github.com/texstudio-org/texstudio/blob/master/utilities/manual/usermanual_en.html#CWLDESCRIPTION
+[FAQ]: /
+[Tips & Tricks]: ../Tip
+[Scripts]: ../Scripts/
+[Build]: ../Build/
+[Contribute]: ../Contribute/
 
 
-[opensuse homepage]: https://software.opensuse.org/download/package?project=home:jsundermeyer&package=texstudio
-[use apt-pinning]: https://wiki.debian.org/AptPreferences
+<!--                             < Navigation >                              -->
 
-[Release 2.12.22]: https://github.com/texstudio-org/texstudio/releases/tag/2.12.22
+##### 「 [FAQ] 」 『 [Tips & Tricks] 』 『 [Scripts] 』 『 [Build] 』『 [Contribute] 』
 
-
-
-[TeXStudio]: https://github.com/texstudio-org/texstudio
-[Contribute]: ../Contribute
+---
 
 
 <!-----------------------------------[ FAQ ]----------------------------------->

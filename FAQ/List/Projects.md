@@ -1,11 +1,12 @@
 
 <!--                            < Static Links >                             -->
 
-[FAQ]: ../../FAQ/
-[Tips & Tricks]: ../
+[FAQ]: ../
+[Tips & Tricks]: ../../Tip/
 [Scripts]: ../../Scripts/
 [Build]: ../../Build/
 [Contribute]: ../../Contribute/
+
 
 
 <!--                             < Navigation >                              -->
