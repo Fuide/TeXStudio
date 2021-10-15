@@ -287,7 +287,7 @@ provide spell checking and similar functionalities.
 
 ## Language List
 
-| Language                   | .dic                | .aff                | .badWords | .stopWords | .stopWords.level2 | th_*_v2.dat |
+| Language                          | .dic                | .aff                | .badWords | .stopWords | .level2 | .dat |
 | :-------------------------------: | :-----------------: | :-----------------: | :-: | :-: | :-: | :-: |
 | **Bulgarian**                     | [📒][bg_dic]        | [📓][bg_aff]        | | | | |
 | **Breton**                        | [📒][br_dic]        | [📓][br_aff]        | | | | |
@@ -378,7 +378,7 @@ provide spell checking and similar functionalities.
 | **Klingon Latin**                 | [📒][tlh_latin_dic] | [📓][tlh_latin_aff] | | | | |
 | **Klingon**                       | [📒][tlh_dic]       | [📓][tlh_aff]       | | | | |
 | **Turkish**                       | [📒][tr_dic]        | [📓][tr_aff]        | | | | |
-| **China**                         | [📒][cn_dic]        | [📓][cn_aff]        | | | | |
+| **Chinese**                       | [📒][cn_dic]        | [📓][cn_aff]        | | | | |
 | **Ukrainian**                     | [📒][uk_dic]        | [📓][uk_aff]        | | | | |
 | **Vietnamese**                    | [📒][vi_dic]        | [📓][vi_aff]        | | | | |
 
